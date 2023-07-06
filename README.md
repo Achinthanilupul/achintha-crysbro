@@ -22,7 +22,7 @@
 <br />
 
 
-### <div align="center">👍 I'm Achintha Nilupul. I'm .NET Engineer.  🚀</div>
+### <div align="center">👍 I'm Achintha Nilupul. I'm a .NET Engineer.  🚀</div>
 ❤️ I love Programming, making application/software for Mobile, Web and Desktop. It does feel amazing to see myself improving. My unequivocal love for making things that change the world. That's why I like to make things that make a difference. 
 
 <br/>
