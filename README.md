@@ -54,8 +54,6 @@
 [![Cover](https://github.com/DungGramer/DungGramer/blob/master/public/image/coding.gif)](https://github.com/DungGramer/)    
 
 
-  
-<img align="right" alt="GIF" src="public/image/coding.gif" width="408" height="318" />
 
 **Talking about Personal Stuffs:**
 
