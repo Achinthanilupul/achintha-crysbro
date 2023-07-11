@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rajitha Peiris</h1>
+<h1 align="center">Hi 👋, I'm Achintha Nilupul</h1>
 <h3 align="center">A passionate .NET and Angular backend engineer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajithapeiris-personalportfolio&label=Profile%20views&color=0e75b6&style=flat" alt="rajithapeiris-personalportfolio" /> </p>
@@ -11,11 +11,11 @@
 
 - 🤝 I’m looking for help with **a PHP (CodeIgniter) project.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/RajithaPeiris-PersonalPortfolio](https://github.com/RajithaPeiris-PersonalPortfolio)
+- 👨‍💻 All of my projects are available at [https://github.com/Achintha nilupul-PersonalPortfolio](https://github.com/nilupul.crysbro@outlook.com-PersonalPortfolio)
 
 - 💬 Ask me about **React JS, Express JS and Mongo DB.**
 
-- 📫 How to reach me **rajithapeiris.personalportfolio@gmail.com**
+- 📫 How to reach me **achinthanilupul7@gmail.com**
 
 - ⚡ Fun fact **I think I am a social, outgoing person...**
 
