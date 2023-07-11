@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **a PHP (CodeIgniter) project.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Achintha nilupul-PersonalPortfolio](https://github.com/nilupul.crysbro@outlook.com-PersonalPortfolio)
+- 👨‍💻 All of my projects are available at [https://github.com/Achintha nilupul-PersonalPortfolio](https://github.com/achintha-crysbro)
 
 - 💬 Ask me about **React JS, Express JS and Mongo DB.**
 
