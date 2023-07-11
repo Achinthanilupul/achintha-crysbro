@@ -26,7 +26,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajithapeiris-personalportfolio&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="rajithapeiris-personalportfolio" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajithapeiris-personalportfolio&show_icons=true&theme=cobalt&locale=en" alt="rajithapeiris-personalportfolio" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=achintha-crysbro&show_icons=true&theme=cobalt&locale=en" alt="achintha-crysbro" /></p>
 
 </br>
 
