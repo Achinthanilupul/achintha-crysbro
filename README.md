@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Achintha Nilupul</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">, I'm Achintha Nilupul</h1>
+
 <h3 align="center">A passionate .NET and Angular backend engineer from Sri Lanka</h3>
+
+</br>
+</br>
 
 
 - 🔭 I’m currently working on **an ASP.NET Core Project**
