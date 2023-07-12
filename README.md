@@ -4,7 +4,7 @@
 
 </br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=achintha-crysbro&label=Profile%20views&color=0e75b6&style=flat" alt="rajithapeiris-personalportfolio" /> </p>
-</br>
+
 
 
 - 🔭 I’m currently working on **an ASP.NET Core Project**
