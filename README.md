@@ -3,6 +3,7 @@
 <h3 align="center">A passionate .NET and Angular backend engineer from Sri Lanka</h3>
 
 </br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=achintha-crysbro&label=Profile%20views&color=0e75b6&style=flat" alt="rajithapeiris-personalportfolio" /> </p>
 </br>
 
 
