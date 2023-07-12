@@ -24,6 +24,7 @@
 - ⚡ Fun fact **I think I am a social, outgoing person...**
 
 <br>
+
 ### Glad to see you here! &nbsp;
 ![Cover](https://github.com/achintha-crysbro/COVER-IMG/blob/master/COVER-IMG/Black%20and%20White%20Modern%20Linkedin%20Banner.png)
 
